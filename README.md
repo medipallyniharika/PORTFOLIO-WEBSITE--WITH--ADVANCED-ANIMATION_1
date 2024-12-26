@@ -12,3 +12,6 @@ BATCH DURATION: 25-Dec-2024 to 25-jan-2025
 MENTOR NAME: NEELA SANTOSH 
 
 DESCRIPTION: This is the best way to learn new things and i saw this in instgram. we can plan to apply creative fields like writing,web design graphical design.
+
+OUTPUT: 
+https://github.com/user-attachments/files/18254501/README.5.md)
